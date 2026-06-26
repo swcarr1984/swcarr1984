@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**swcarr1984/swcarr1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+''' yaml
+profile:
+  name: Scott Carr
+  title: Systems & Controls Engineer
+  location: Australia
+  focus_areas:
+    - Edge computing and embedded runtimes
+    - Industrial machine-health analytics
+    - PyTorch experimentation and model training
+    - C++ systems programming and IPC
+    - Control systems and automation
+  current_projects:
+    edge_device_interface_module:
+      description: "Lightweight runtime for device I/O, buffering, and telemetry on embedded PCBs."
+      status: "Early development"
+    pytorch_function_testing:
+      description: "Experiments with PyTorch layers, datasets, and training loops for industrial ML tasks."
+      status: "Active"
+    cpp_ipc_framework:
+      description: "Multi-process messaging and data-pipeline experimentation using C++ and Boost IPC."
+      status: "Design + prototyping"
+  goals:
+    - Build a polished portfolio of systems-engineering software projects
+    - Develop reusable modules for edge-device telemetry and ML pipelines
+    - Expand knowledge in embedded systems, numerical methods, and AI tooling
+  status: "Actively building and refining engineering-focused repositories"
+'''
