@@ -3,7 +3,7 @@
 ```yaml
 profile:
   name: S.Carr
-  title: Systems Software and Controls Engineer
+  title: Systems, Software and Controls Engineer
   location: Australia
   focus_areas:
     - Modern C++ systems programming
@@ -11,21 +11,21 @@ profile:
     - Real‑time control, multithreaded execution, and multiprocess system design
     - Machine-health analytics / diagnostics
     - PyTorch experimentation and model training
-    - Industrial Control systems, motion-control and automation
-    - Engineering problem-solving scripts
+    - Industrial Control systems, motion-control, and automation
+    - Engineering problem-solving and computational tooling
   current_projects:
     edge_device_interface_module (currently private):
-      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and telemetry on                         embedded PCBs."
+      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and telemetry on embedded PCBs."
       status: "Continuing development"
     pytorch_function_testing:
-      description: "Experiments with PyTorch layers, datasets, and training loops for industrial ML tasks."
-      status: "Active, developing early indication of equipment degradation using multi-variable inference"
+      description: "Experimentation with PyTorch layers, datasets, and training loops for industrial machine health tasks."
+      status: "Active, developing early indicators of equipment degradation using multi-variable inference"
     cpp_ipc_framework:
       description: "Multi-process messaging and data-pipeline experimentation using C++ and Boost IPC."
-      status: "Design + prototyping. Verifying temporal performance of Boost for IPC use in further projects."
+      status: "Design + prototyping - evaluating temporal performance of Boost IPC for future systems work."
   motivation:
-    - Building a portfolio of systems-engineering software components, modules and projects
-    - Develop multi-function interfacing modules for edge-device telemetry
-    - Use knowledge in embedded systems and distributed systems to develop prototypes and interfaces
+    - Building a portfolio of systems-engineering software components, modules and prototypes
+    - Develop multi-function interfacing modules for edge-device telemetry and diagnostics
+    - Use embedded and distributed-systems knowledge to create robust prototypes and interfaces
   status: "Actively building and refining engineering-focused repositories"
 ```
