@@ -1,7 +1,9 @@
-''' yaml
+## Profile Metadata (YAML)
+
+```yaml
 profile:
   name: Scott Carr
-  title: Systems & Controls Engineer
+  title: Systems Software and Controls Engineer
   location: Australia
   focus_areas:
     - Edge computing and embedded runtimes
@@ -24,4 +26,4 @@ profile:
     - Develop reusable modules for edge-device telemetry and ML pipelines
     - Expand knowledge in embedded systems, numerical methods, and AI tooling
   status: "Actively building and refining engineering-focused repositories"
-'''
+```
