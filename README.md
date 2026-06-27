@@ -9,7 +9,9 @@ profile:
   focus_areas:
     - Modern C++ systems programming
     - Edge device interfacing and embedded runtimes
-    - Real‑time control, multithreaded execution, and multiprocess system design
+    - Distributed control architectures
+    - Real-time control, multithreaded execution, and multiprocess system design
+    - Web-based human-machine and graphical user interfaces (HMI / GUI)
     - Machine-health analytics / diagnostics
     - PyTorch experimentation and model training
     - Industrial Control systems, motion-control, and automation
