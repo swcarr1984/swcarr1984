@@ -1,5 +1,5 @@
 ## Profile Overview
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://au.linkedin.com/in/scott-carr-b2636156)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-carr-b2636156)
 
 
 ```yaml
