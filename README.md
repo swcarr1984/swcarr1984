@@ -18,7 +18,8 @@ profile:
     - Engineering problem-solving and computational tooling
   current_projects:
     edge_device_interface_module (currently under private development, available on request):
-      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and telemetry on embedded PCBs. Utilising a Threadx RTOS Kernel with DDS for data transfer and TSN linked with PTP (IEEE 802.1AS (gPTP))"
+      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and telemetry on embedded PCBs.
+Utilising a Threadx RTOS Kernel with DDS for data transfer and TSN linked with PTP (IEEE 802.1AS (gPTP))"
       status: "Continuing development"
     pytorch_function_testing:
       description: "Experimentation with PyTorch layers, datasets, and training loops for industrial machine health tasks."
