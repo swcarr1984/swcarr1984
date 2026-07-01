@@ -17,10 +17,18 @@ profile:
     - Industrial Control systems, motion-control, and automation
     - Engineering problem-solving and computational tooling
   current_projects:
-    edge_device_interface_module (currently under private development, available on request):
-      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and telemetry on embedded PCBs.
+    edge_device_interface_module (private):
+      description: "Lightweight multithreaded runtime for device I/O, buffering, diagnostics and
+      telemetry on embedded PCBs.
       Utilising a Threadx RTOS Kernel with DDS for data transfer and TSN linked with PTP (IEEE 802.1AS (gPTP), IEEE 1588)"
       status: "Continuing development"
+    distributed_control_system:
+      description: "Bespoke, distributed control system built using multiple embedded Linux controllers and a NodeJS
+      server/multi‑client architecture. The system implements real‑time socket communication, event‑driven callbacks,
+      and MySQL-backed telemetry storage with precise time‑stamped device data. Features HMI interface and alarm and
+      time-dependent event priority management."
+      status: "Completed. Main structure, deployed on RPi5 and 2 x RPi Zero W's, tested with TCP/IP and fibre
+      communication layer. Secondary features can be developed upon for enhancement."
     pytorch_function_testing:
       description: "Experimentation with PyTorch layers, datasets, and training loops for industrial machine health tasks."
       status: "Active, developing early indicators of equipment degradation using multi-variable inference"
